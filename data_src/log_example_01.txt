@@ -1,0 +1,8 @@
+[LOG ENTRY] [ERROR] The system is unstable 
+[LOG ENTRY] [WARN] The system may be down 
+[LOG ENTRY] [LOG] Everything is OK 
+[LOG ENTRY] [LOG] [user:@beco] Logged in 
+[LOG ENTRY] [LOG] [user:@beco] Clicked here 
+[LOG ENTRY] [LOG] [user:@oscar] Rated the app 
+[LOG ENTRY] [LOG] [user:@beco] Logged out 
+[LOG ENTRY] [LOG] [user:@Lis] Logged out 
